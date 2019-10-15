@@ -1,4 +1,5 @@
 @echo off
+cd /d "%~dp0"
 
 rem check if you have SVN client in path
 svn --version 1>nul 2>nul
