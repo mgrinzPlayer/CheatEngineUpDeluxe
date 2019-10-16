@@ -7,7 +7,7 @@ It will help to set up FreePascal/Lazarus environment needed for building [Cheat
 ## Instructions
 Download [prepareLazarusEnvAndCE.zip](https://github.com/mgrinzPlayer/CheatEngineUpDeluxe/releases/latest)
 
-Extract it. You will need at least 2.5GB free space. Installed SVN client is required, be it TortoiseSVN with command line client tools or SlikSVN.
+Extract it to folder where you have write permission. Make sure there are no spaces or non-English characters in the path. You will need at least 2.5GB free space. Installed SVN client is required, be it TortoiseSVN with command line client tools or SlikSVN.
 
 Launch "prepare Lazarus Env.cmd"
 
